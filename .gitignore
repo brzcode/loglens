@@ -1,0 +1,189 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# celery beat schedule file
+celerybeat-schedule
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# IDE and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.cursor/
+cursor-session.log
+
+# AI and Development Tools
+.bmad-core/logs/
+.bmad-core/tmp/
+*.ai-session
+debug_*.py
+temp_*.py
+scratch_*.py
+test_*.log
+sample*.log
+*.temp
+*.backup
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Icon?
+
+# Log Analysis Outputs and Temp Files
+analysis_output/
+reports/
+*.analysis
+*.report
+security-report.*
+comprehensive-analysis.*
+
+# API Keys and Secrets
+.env.local
+.env.production
+.env.staging
+secrets.yaml
+api-keys.json
+*.key
+*.pem
+*.p12
+
+# Development and Debug
+debug.log
+error.log
+*.pid
+*.seed
+*.pid.lock
+
+# Documentation Build
+docs/_build/
+docs/build/
+site/
+.mkdocs.yml.backup
+
+# Performance and Profiling
+*.prof
+*.pstats
+profile_*.txt
+memory_*.txt
+
+# Testing and Coverage Extended
+.coverage.*
+coverage/
+.nyc_output/
+coverage.json
+test-results/
+allure-results/
+
+# Package Manager Locks (keep pyproject.toml)
+poetry.lock.backup
+Pipfile.lock.backup
+
+# Configuration Backups
+config.yaml.backup
+*.conf.backup
+*.ini.backup 
