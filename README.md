@@ -1,4 +1,4 @@
-# LogLens - Advanced Log Analysis Tool
+# LogLens - Simplifying Log Analysis for Security Teams
 
 ![LogLens Logo](https://img.shields.io/badge/LogLens-0.1.0-blue)
 ![Python](https://img.shields.io/badge/Python-3.11+-green)
@@ -40,7 +40,7 @@ LogLens is a powerful command-line tool for comprehensive log file analysis, fea
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-org/loglens.git
+git clone https://github.com/brzcode/loglens.git
 cd loglens
 
 # Install with Poetry (recommended)
