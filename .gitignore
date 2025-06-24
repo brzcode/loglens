@@ -112,8 +112,11 @@ dmypy.json
 cursor-session.log
 
 # AI and Development Tools
-.bmad-core/logs/
-.bmad-core/tmp/
+.bmad-core/
+bmad-core/
+web-bundles/
+docs/
+tests/
 *.ai-session
 debug_*.py
 temp_*.py
@@ -122,8 +125,6 @@ test_*.log
 sample*.log
 *.temp
 *.backup
-.bmad-core/
-.web-bundle/
 
 
 # OS
