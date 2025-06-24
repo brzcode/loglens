@@ -122,6 +122,9 @@ test_*.log
 sample*.log
 *.temp
 *.backup
+.bmad-core/
+.web-bundle/
+
 
 # OS
 .DS_Store
